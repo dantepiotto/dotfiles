@@ -1,0 +1,8 @@
+configuration {
+	modi: "drun,run";
+	show-icons: true;
+	terminal: "alacritty";
+	font: "CodeNewRoman Nerd Font Mono 12";
+	icon-theme: "oomox-Gruvbox-Dark";
+}
+@theme "~/.config/rofi/theme.rasi"

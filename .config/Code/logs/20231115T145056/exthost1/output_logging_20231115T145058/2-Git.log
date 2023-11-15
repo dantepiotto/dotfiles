@@ -1,0 +1,12 @@
+[2023-11-15T13:50:58.337Z] Validating found git in: git
+[2023-11-15T13:50:58.364Z] Using git 2.34.1 from git
+[2023-11-15T13:50:58.375Z] > git rev-parse --show-toplevel [3ms]
+[2023-11-15T13:50:58.383Z] > git rev-parse --git-dir --git-common-dir [2ms]
+[2023-11-15T13:50:58.386Z] Open repository: /home/dante/coding/IPCV/Computer-Vision
+[2023-11-15T13:50:58.398Z] > git status -z -uall [5ms]
+[2023-11-15T13:50:58.405Z] > git symbolic-ref --short HEAD [1ms]
+[2023-11-15T13:50:58.419Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Antonio refs/remotes/Antonio [4ms]
+[2023-11-15T13:50:58.453Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [24ms]
+[2023-11-15T13:50:58.455Z] > git remote --verbose [20ms]
+[2023-11-15T13:50:58.606Z] > git config --get commit.template [143ms]
+[2023-11-15T13:50:59.288Z] > git check-ignore -v -z --stdin [8ms]

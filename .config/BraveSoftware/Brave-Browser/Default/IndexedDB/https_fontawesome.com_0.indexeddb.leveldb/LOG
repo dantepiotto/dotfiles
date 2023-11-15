@@ -1,0 +1,6 @@
+2023/11/12-19:57:03.771 9062 Creating DB /home/dante/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb since it was missing.
+2023/11/12-19:57:03.780 9062 Reusing MANIFEST /home/dante/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_fontawesome.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/12-20:25:27.863 9063 Level-0 table #5: started
+2023/11/12-20:25:27.866 9063 Level-0 table #5: 3436 bytes OK
+2023/11/12-20:25:27.870 9063 Delete type=0 #3
+2023/11/12-20:25:27.871 9063 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

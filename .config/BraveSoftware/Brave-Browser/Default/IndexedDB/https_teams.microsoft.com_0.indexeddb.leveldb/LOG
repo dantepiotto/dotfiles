@@ -1,0 +1,21 @@
+2023/11/15-15:33:02.948 2b39 Reusing MANIFEST /home/dante/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/15-15:33:02.949 2b39 Recovering log #6
+2023/11/15-15:33:02.949 2b39 Reusing old log /home/dante/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000006.log 
+2023/11/15-15:33:08.600 2b45 Level-0 table #11: started
+2023/11/15-15:33:08.632 2b45 Level-0 table #11: 1389587 bytes OK
+2023/11/15-15:33:08.638 2b45 Delete type=0 #6
+2023/11/15-15:33:08.751 2b45 Compacting 1@1 + 1@2 files
+2023/11/15-15:33:08.776 2b45 Generated table #12@1: 6313 keys, 1102725 bytes
+2023/11/15-15:33:08.776 2b45 Compacted 1@1 + 1@2 files => 1102725 bytes
+2023/11/15-15:33:08.780 2b45 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/15-15:33:08.780 2b45 Delete type=2 #8
+2023/11/15-15:33:08.780 2b45 Delete type=2 #11
+2023/11/15-15:45:39.689 2b3a Level-0 table #14: started
+2023/11/15-15:45:39.731 2b3a Level-0 table #14: 1366063 bytes OK
+2023/11/15-15:45:39.735 2b3a Delete type=0 #10
+2023/11/15-15:58:35.441 2b3a Compacting 1@1 + 1@2 files
+2023/11/15-15:58:35.475 2b3a Generated table #15@1: 8633 keys, 1642128 bytes
+2023/11/15-15:58:35.475 2b3a Compacted 1@1 + 1@2 files => 1642128 bytes
+2023/11/15-15:58:35.478 2b3a compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/15-15:58:35.479 2b3a Delete type=2 #14
+2023/11/15-15:58:35.479 2b3a Delete type=2 #12

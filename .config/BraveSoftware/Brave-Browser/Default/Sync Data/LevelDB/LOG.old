@@ -1,0 +1,78 @@
+2023/11/15-12:31:29.206 2b57 Reusing MANIFEST /home/dante/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2023/11/15-12:31:29.207 2b57 Recovering log #12
+2023/11/15-12:31:29.208 2b57 Reusing old log /home/dante/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000012.log 
+2023/11/15-12:59:27.587 2b45 Level-0 table #16: started
+2023/11/15-12:59:27.602 2b45 Level-0 table #16: 70077 bytes OK
+2023/11/15-12:59:27.609 2b45 Delete type=0 #12
+2023/11/15-12:59:27.610 2b45 Compacting 4@0 + 1@1 files
+2023/11/15-12:59:27.620 2b45 Generated table #17@0: 49 keys, 5991 bytes
+2023/11/15-12:59:27.620 2b45 Compacted 4@0 + 1@1 files => 5991 bytes
+2023/11/15-12:59:27.625 2b45 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/15-12:59:27.625 2b45 Delete type=2 #7
+2023/11/15-12:59:27.625 2b45 Delete type=2 #9
+2023/11/15-12:59:27.625 2b45 Delete type=2 #13
+2023/11/15-12:59:27.626 2b45 Delete type=2 #16
+2023/11/15-12:59:27.626 2b45 Delete type=2 #11
+2023/11/15-13:46:52.674 2b45 Level-0 table #19: started
+2023/11/15-13:46:52.689 2b45 Level-0 table #19: 65047 bytes OK
+2023/11/15-13:46:52.696 2b45 Delete type=0 #15
+2023/11/15-14:25:14.922 2b46 Level-0 table #21: started
+2023/11/15-14:25:14.935 2b46 Level-0 table #21: 72166 bytes OK
+2023/11/15-14:25:14.942 2b46 Delete type=0 #18
+2023/11/15-14:46:14.977 2b3a Level-0 table #23: started
+2023/11/15-14:46:14.991 2b3a Level-0 table #23: 74199 bytes OK
+2023/11/15-14:46:14.995 2b3a Delete type=0 #20
+2023/11/15-15:20:57.146 2b46 Level-0 table #25: started
+2023/11/15-15:20:57.159 2b46 Level-0 table #25: 70482 bytes OK
+2023/11/15-15:20:57.166 2b46 Delete type=0 #22
+2023/11/15-15:20:57.166 2b46 Compacting 4@0 + 1@1 files
+2023/11/15-15:20:57.174 2b46 Generated table #26@0: 49 keys, 8479 bytes
+2023/11/15-15:20:57.175 2b46 Compacted 4@0 + 1@1 files => 8479 bytes
+2023/11/15-15:20:57.180 2b46 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/15-15:20:57.181 2b46 Delete type=2 #23
+2023/11/15-15:20:57.181 2b46 Delete type=2 #17
+2023/11/15-15:20:57.181 2b46 Delete type=2 #25
+2023/11/15-15:20:57.181 2b46 Delete type=2 #21
+2023/11/15-15:20:57.181 2b46 Delete type=2 #19
+2023/11/15-15:30:47.583 2b3a Level-0 table #28: started
+2023/11/15-15:30:47.590 2b3a Level-0 table #28: 97863 bytes OK
+2023/11/15-15:30:47.594 2b3a Delete type=0 #24
+2023/11/15-15:32:02.045 2b3d Level-0 table #30: started
+2023/11/15-15:32:02.058 2b3d Level-0 table #30: 193735 bytes OK
+2023/11/15-15:32:02.062 2b3d Delete type=0 #27
+2023/11/15-15:33:01.728 2b46 Level-0 table #32: started
+2023/11/15-15:33:01.734 2b46 Level-0 table #32: 236260 bytes OK
+2023/11/15-15:33:01.738 2b46 Delete type=0 #29
+2023/11/15-16:24:15.881 2b45 Level-0 table #34: started
+2023/11/15-16:24:15.891 2b45 Level-0 table #34: 110253 bytes OK
+2023/11/15-16:24:15.897 2b45 Delete type=0 #31
+2023/11/15-16:24:15.898 2b45 Compacting 4@0 + 1@1 files
+2023/11/15-16:24:15.904 2b45 Generated table #35@0: 51 keys, 13432 bytes
+2023/11/15-16:24:15.904 2b45 Compacted 4@0 + 1@1 files => 13432 bytes
+2023/11/15-16:24:15.910 2b45 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/15-16:24:15.911 2b45 Delete type=2 #30
+2023/11/15-16:24:15.911 2b45 Delete type=2 #28
+2023/11/15-16:24:15.911 2b45 Delete type=2 #26
+2023/11/15-16:24:15.911 2b45 Delete type=2 #32
+2023/11/15-16:24:15.911 2b45 Delete type=2 #34
+2023/11/15-17:05:08.223 2b3a Level-0 table #37: started
+2023/11/15-17:05:08.234 2b3a Level-0 table #37: 76341 bytes OK
+2023/11/15-17:05:08.239 2b3a Delete type=0 #33
+2023/11/15-17:29:07.616 2b45 Level-0 table #39: started
+2023/11/15-17:29:07.629 2b45 Level-0 table #39: 82175 bytes OK
+2023/11/15-17:29:07.637 2b45 Delete type=0 #36
+2023/11/15-18:19:05.710 2b45 Level-0 table #41: started
+2023/11/15-18:19:05.723 2b45 Level-0 table #41: 63434 bytes OK
+2023/11/15-18:19:05.729 2b45 Delete type=0 #38
+2023/11/15-19:10:08.002 2b45 Level-0 table #43: started
+2023/11/15-19:10:08.011 2b45 Level-0 table #43: 61186 bytes OK
+2023/11/15-19:10:08.018 2b45 Delete type=0 #40
+2023/11/15-19:10:08.020 2b45 Compacting 4@0 + 1@1 files
+2023/11/15-19:10:08.027 2b45 Generated table #44@0: 58 keys, 8284 bytes
+2023/11/15-19:10:08.027 2b45 Compacted 4@0 + 1@1 files => 8284 bytes
+2023/11/15-19:10:08.031 2b45 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/11/15-19:10:08.031 2b45 Delete type=2 #41
+2023/11/15-19:10:08.032 2b45 Delete type=2 #39
+2023/11/15-19:10:08.032 2b45 Delete type=2 #43
+2023/11/15-19:10:08.032 2b45 Delete type=2 #37
+2023/11/15-19:10:08.032 2b45 Delete type=2 #35

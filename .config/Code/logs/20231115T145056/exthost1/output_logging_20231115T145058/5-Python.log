@@ -1,0 +1,13 @@
+Experiment 'pythonPromptNewFormatterExt' is active
+Experiment 'pythonPromptNewToolsExt' is active
+Experiment 'PythonPyTorchProfiler' is active
+Experiment 'pythonRecommendTensorboardExt' is active
+Experiment 'pythonREPLSmartSendcf' is active
+Experiment 'pythonTensorboardExperiment' is active
+Experiment 'pythonTestAdapter' is active
+LSP Notebooks experiment is disabled -- Jupyter does not support experiment
+> conda info --json
+> /bin/python3 ~/.vscode/extensions/ms-python.python-2022.8.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.8.1/pythonFiles/interpreterInfo.py
+> /usr/bin/python3 ~/.vscode/extensions/ms-python.python-2022.8.1/pythonFiles/get_output_via_markers.py ~/.vscode/extensions/ms-python.python-2022.8.1/pythonFiles/interpreterInfo.py
+Python interpreter path: /bin/python3
+Starting Pylance language server.

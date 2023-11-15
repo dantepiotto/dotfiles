@@ -1,0 +1,27 @@
+2023-10-31 17:34:46.904 [info] Log level: Info
+2023-10-31 17:34:46.904 [info] Validating found git in: "git"
+2023-10-31 17:34:46.904 [info] Using git "2.34.1" from "git"
+2023-10-31 17:34:46.904 [info] > git rev-parse --show-toplevel [2ms]
+2023-10-31 17:34:46.904 [info] > git rev-parse --git-dir --git-common-dir [18ms]
+2023-10-31 17:34:46.904 [info] Open repository: /home/dante/coding/IPCV/Computer-Vision
+2023-10-31 17:34:46.925 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-31 17:34:46.926 [info] > git config --get commit.template [12ms]
+2023-10-31 17:34:46.954 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Antonio refs/remotes/Antonio [3ms]
+2023-10-31 17:34:46.964 [info] > git rev-parse --show-toplevel [22ms]
+2023-10-31 17:34:46.976 [info] > git status -z -uall [13ms]
+2023-10-31 17:34:46.992 [info] > git rev-parse --show-toplevel [18ms]
+2023-10-31 17:34:47.002 [info] > git config --get commit.template [10ms]
+2023-10-31 17:34:47.007 [info] > git rev-parse --show-toplevel [6ms]
+2023-10-31 17:34:47.031 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Antonio refs/remotes/Antonio [13ms]
+2023-10-31 17:34:47.046 [info] > git status -z -uall [6ms]
+2023-10-31 17:34:47.345 [info] > git show --textconv :Computer_Vision_Project.py [9ms]
+2023-10-31 17:34:47.347 [info] > git ls-files --stage -- /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.py [3ms]
+2023-10-31 17:34:47.357 [info] > git cat-file -s f0b54dc5dcd7deab981ef020e1d7ff6e5005f38e [2ms]
+2023-10-31 17:34:47.490 [info] > git check-ignore -v -z --stdin [3ms]
+2023-10-31 17:35:04.828 [info] Log level: Info
+2023-10-31 17:35:04.828 [info] Validating found git in: "git"
+2023-10-31 17:35:04.845 [info] Using git "2.34.1" from "git"
+2023-10-31 17:35:04.864 [info] > git rev-parse --show-toplevel [5ms]
+2023-10-31 17:35:04.864 [info] fatal: not a git repository (or any of the parent directories): .git
+2023-10-31 17:35:05.449 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-31 17:35:05.449 [info] fatal: not a git repository (or any of the parent directories): .git

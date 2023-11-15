@@ -1,0 +1,14 @@
+[2023-11-12 15:07:20.949] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}
+[2023-11-12 15:07:21.554] [renderer1] [error] RequestService#request (browser) - error https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery {"name":"Canceled"}
+[2023-11-12 15:31:55.977] [renderer1] [error] Failed to execute 'postMessage' on 'Worker': (y,D,T)=>{this._listeners||(this._listeners=new R.LinkedList);const A=this._listeners.isEmpty();A&&this._option...<omitted>...M} could not be cloned.: Error: Failed to execute 'postMessage' on 'Worker': (y,D,T)=>{this._listeners||(this._listeners=new R.LinkedList);const A=this._listeners.isEmpty();A&&this._option...<omitted>...M} could not be cloned.
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:18133
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-11-12 15:32:41.946] [renderer1] [error] Failed to execute 'postMessage' on 'Worker': (y,D,T)=>{this._listeners||(this._listeners=new R.LinkedList);const A=this._listeners.isEmpty();A&&this._option...<omitted>...M} could not be cloned.: Error: Failed to execute 'postMessage' on 'Worker': (y,D,T)=>{this._listeners||(this._listeners=new R.LinkedList);const A=this._listeners.isEmpty();A&&this._option...<omitted>...M} could not be cloned.
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:18133
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-11-12 15:32:53.962] [renderer1] [error] Failed to execute 'postMessage' on 'Worker': (y,D,T)=>{this._listeners||(this._listeners=new R.LinkedList);const A=this._listeners.isEmpty();A&&this._option...<omitted>...M} could not be cloned.: Error: Failed to execute 'postMessage' on 'Worker': (y,D,T)=>{this._listeners||(this._listeners=new R.LinkedList);const A=this._listeners.isEmpty();A&&this._option...<omitted>...M} could not be cloned.
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:18133
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2023-11-12 15:32:55.051] [renderer1] [error] Failed to execute 'postMessage' on 'Worker': (y,D,T)=>{this._listeners||(this._listeners=new R.LinkedList);const A=this._listeners.isEmpty();A&&this._option...<omitted>...M} could not be cloned.: Error: Failed to execute 'postMessage' on 'Worker': (y,D,T)=>{this._listeners||(this._listeners=new R.LinkedList);const A=this._listeners.isEmpty();A&&this._option...<omitted>...M} could not be cloned.
+    at vscode-file://vscode-app/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:82:18133
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)

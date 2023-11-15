@@ -1,0 +1,10 @@
+2023-10-31 17:19:16.018 [info] Started initializing default profile extensions in extensions installation folder. file:///home/dante/.vscode-oss/extensions
+2023-10-31 17:19:16.205 [warning] Failed to create default profile extensions manifest in extensions installation folder. file:///home/dante/.vscode-oss/extensions Unable to create file 'vscode-userdata:/home/dante/.vscode-oss/extensions/extensions.json' that already exists when overwrite flag is not set
+2023-10-31 17:19:16.205 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/dante/.vscode-oss/extensions
+2023-10-31 17:19:16.215 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dante/.vscode-oss/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dante/.vscode-oss/extensions/extensions.json.vsctmp'
+    at s.create (/snap/codium/353/usr/share/codium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:36019)
+    at i (/snap/codium/353/usr/share/codium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:51:36159)
+    at t.toFileSystemProviderError (/snap/codium/353/usr/share/codium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:47264)
+    at t.stat (/snap/codium/353/usr/share/codium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:37859)
+    at async p.stat (/snap/codium/353/usr/share/codium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:56:20678)
+    at async K.onDidFilesChange (/snap/codium/353/usr/share/codium/resources/app/out/vs/code/node/sharedProcess/sharedProcessMain.js:109:12660)

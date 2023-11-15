@@ -1,0 +1,125 @@
+{
+   "checksum": "20a463be4ad022caf22bce854cc3edd9",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13149094474000000",
+            "date_last_used": "13344541722559894",
+            "guid": "c1a697a3-311c-4516-94e8-7df04e6375bb",
+            "id": "5",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13149175618000000",
+            "date_last_used": "0",
+            "guid": "ee716f8b-3e08-4fc2-aa60-c4c684214a57",
+            "id": "6",
+            "name": "Search | Songsterr Tabs with Rhythm",
+            "type": "url",
+            "url": "https://www.songsterr.com/a/wa/search"
+         }, {
+            "date_added": "13254751370000000",
+            "date_last_used": "13344532229565904",
+            "guid": "bef45357-80ae-49b4-82c9-bb3be6417c2e",
+            "id": "7",
+            "name": "virtuale",
+            "type": "url",
+            "url": "https://virtuale.unibo.it/my/"
+         }, {
+            "date_added": "13307562355000000",
+            "date_last_used": "13344532257431663",
+            "guid": "01f350cc-be72-499c-be01-359730498424",
+            "id": "8",
+            "name": "Course Timetable — Automation Engineering - Laurea Magistrale - Bologna",
+            "type": "url",
+            "url": "https://corsi.unibo.it/2cycle/AutomationEngineering/timetable"
+         }, {
+            "date_added": "13281529646000000",
+            "date_last_used": "0",
+            "guid": "9f104369-914e-4d0e-a2d6-32e0205d4876",
+            "id": "9",
+            "name": "My files - OneDrive",
+            "type": "url",
+            "url": "https://liveunibo-my.sharepoint.com/personal/dante_piotto_studio_unibo_it/_layouts/15/onedrive.aspx"
+         }, {
+            "date_added": "13288835067000000",
+            "date_last_used": "0",
+            "guid": "7952bd9a-0b72-49eb-9960-87f80a68b93c",
+            "id": "10",
+            "name": "todolists",
+            "type": "url",
+            "url": "https://docs.google.com/spreadsheets/d/1a5UhQGr8Kp3c9bjWeN1AQOw9J-jPxw-vybggKYmeOdE/edit#gid=0"
+         }, {
+            "date_added": "13234565439000000",
+            "date_last_used": "0",
+            "guid": "718f5455-160b-4549-971b-88078b97fe24",
+            "id": "11",
+            "name": " Da Vinci's Notebook (TTBB) Sheet music for Piano | Download free in PDF or MIDI | Musescore.com",
+            "type": "url",
+            "url": "https://musescore.com/musicislife384/enormous-penis-da-vincis-notebook-ttbb"
+         }, {
+            "date_added": "13267565442000000",
+            "date_last_used": "0",
+            "guid": "0d45349a-9a16-4ad0-9c16-7cff1a03a886",
+            "id": "12",
+            "name": "Learn Japanese: A Ridiculously Detailed Guide",
+            "type": "url",
+            "url": "https://www.tofugu.com/learn-japanese/"
+         }, {
+            "date_added": "13314551267000000",
+            "date_last_used": "0",
+            "guid": "cb41c7d7-9819-4aef-806e-d69617c3801a",
+            "id": "13",
+            "name": "List of LaTeX mathematical symbols - OeisWiki",
+            "type": "url",
+            "url": "https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols"
+         }, {
+            "date_added": "13321029799000000",
+            "date_last_used": "0",
+            "guid": "f5512460-0acf-47b0-baf9-1e8043b1dcce",
+            "id": "14",
+            "name": "Movies7",
+            "type": "url",
+            "url": "https://movies7.to/"
+         }, {
+            "date_added": "13332943348000000",
+            "date_last_used": "0",
+            "guid": "a6f70186-51b8-409e-a61f-7b773725cb25",
+            "id": "15",
+            "name": "dantepiotto/lecture-notes",
+            "type": "url",
+            "url": "https://github.com/dantepiotto/lecture-notes"
+         } ],
+         "date_added": "13344511702041765",
+         "date_last_used": "0",
+         "date_modified": "13332943348000000",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13344511702041766",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13344511702041768",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "sync_metadata": "CooBChAIiIECEgq80qG2+mIAAAAAEgAaWDZvQTVab1B3ZkVYWkcrNEZnV2R4YkcxZGpUS24yWnBObjltMjlrNkxySzhxdHRxeGQvenpzakh0NlJibFJmdEhPMWorZlZPVGx0ZCt6ckU4WHhuNXpnPT0qGGZWdHVOUDJFYSszNFU0Tk9CMlU5WUE9PUgDEqcBCAUSogEKHEFsZ3g0Y3d3UjNUQ0g2aE8wVEVzL2tvdUdSVT0SJDNmN2U3ZDQ5LTBiY2YtNDlhMi1hMjdhLTQzMjIzYTljZjYzNxgAIAAoADCU66GRvTE4noTGj70xQJ6Exo+9MUocYlgyYTNuWGxINFB0TUVpdTBDSytiaGRadzBrPVoeIhw0VklST2RzUit1MXM5aHZzdWU0UEJsNjNJeUU9ZTj5OTMSgwEIAxJ/ChxuamdEdTg4ZUNydlhwODZwRDdmSEdjcUZwODg9EiQ4OGNjN2IxZS0wMWJlLTRlYjEtYjk4OC04ZGE5NTk0Yzg0MTUYACAAKAAwATjS2aGRvTFA0tmhkb0xShx5ek5CMDFjbjU0QTdjUlUwdVQrL1BnbVR0VW89WgBlAAAAABKoAQgHEqMBChx1Mmx3NkFZUVJOT0RrUEFUbnR6bFJGSGRJTkE9EiRjYjQ4YjhhYi00MjUyLTRhOTgtYjk4Zi1hODhlNGRkYmE2ZmMYACAEKAQwnumQm70xOJ6Exo+9MUCd55CbvTFKHHhlNUVOd1VPaklIUHVnbUcrbm5FLzdjL2pvaz1aHyIdukcxZG1WWDJxaWN4OXRwK2FtdU1Bbm5kSWp1bz1l/Gtp8BKDAQgBEn8KHHl4Si82ZnZrZWNyN2twNUVRekI0dFdMcGRiRT0SJGM3NjI1MTAwLTY2ZjEtNGNmYS04NzJkLTViMzQ5NGQ2ZTAxMRgAIAAoADABONLZoZG9MUDS2aGRvTFKHGFSQ1dMZ2hGOWI1SW5xS0lEdnVKL2p2UWtGYz1aAGUAAAAAEqgBCAgSowEKHEdaRktnRVVGcmtsdkxIVjBJeWF5cU9Faktwdz0SJDY4YTE3NGU3LTg0MjAtNGY0NS04MWE5LTZmN2ZjZjM5ZjRiMRgAIAIoAjDS76yRvTE4noTGj70xQO/srJG9MUocbkJSVGhaMzRESlU5WE54b2JPL1ZpckszbEdnPVofIh3dUURublJaL2U2NzkxQ2lLbUg3bmFVeWZlUWMwPWXtt8rdEoMBCAISfwocWWNTVG9udkVTUHdxQ3M0TDJjclZodjY4TDk4PRIkNTgxZTBmMmYtMWIxZi00NTU3LWJkZjktMGUyODdiOTdlY2FjGAAgACgAMAE40tmhkb0xQNLZoZG9MUocb1BWa2h3QlJiVjY1S0NXUjIrSU9OSFdvT3U4PVoAZQAAAAASqAEIDhKjAQocOGpBbjhxMnhObFJSbEdFZnhuN1R2bDJ1NXNjPRIkY2VhYjZhYjAtOTdkYS00ZjYwLWE3NjktNWUyZTBhMGRiZGEyGAAgAigCMLTvrJG9MTiehMaPvTFA8+yskb0xShxJdFFDM2xMemlsdmVJRk1UWDZPdGhWUXNxb3M9Wh8iHf80T09vZXJ6aUFLWXpBZVpweWROUDhWZDlTeFk9ZYjQKMoSqAEICRKjAQoca1pzcDdqRGQ0Z2luVDg4TjJwTmVyQ0MvUk84PRIkZTE4YzA0OGEtNDIwNS00YTUwLTg5NmMtNTBhODU4M2M3MWQ1GAAgAigCMLnvrJG9MTiehMaPvTFA8Oyskb0xShwvU0NrQ2dONk5lMHJQR0VZMHlIcUU4ZEJsYnM9Wh8iHe5HK2lHQkhjQ2NNMG1JeS9kc3NIZWY2TVhXYlk9ZZtbpScSqAEIChKjAQocOExJWHpwQlNBRXJiU3hIa1R4N1ZqUkRFdmdrPRIkZTQ0ODU4NGItMjdjZC00OTgzLWFmZWYtMDQxZTUxYjA2NGVhGAAgAigCML/vrJG9MTiehMaPvTFA8Oyskb0xShwyYUNoL3N1YUplZlFIRjEzUHMxNVRBaEswS009Wh8iHfdxeTIzbmtRUDJEM05ieTREV2FzRzdvR3Jta2M9ZaBm2+gSqAEIDBKjAQocK2hGeFpTb0JDbDZtUE9xSUlsRXlxRjFEKzYwPRIkMDNiOWYyNGEtMjAyOS00NGJlLWE4YTEtZGNiNTg3NDdhZDg4GAAgAigCMM7vrJG9MTiehMaPvTFA8uyskb0xShxzNEUyWStHUGt0ZFBFUEtGOHkxQUFxdDU4SjQ9Wh8iHf0yaEs1Z1I0YmQ5YjBNRFBINHdMcWsrNWlsNmc9ZbxUvOQSqAEICxKjAQoceWg1cXIrT05LVktRdEdNTGc1aW15amdKRXhNPRIkODJjOGM4MWMtYTBkNS00YzY5LWE2MzUtNmRmMGZhYmUyN2JhGAAgAigCMMTvrJG9MTiehMaPvTFA8eyskb0xShwxdnhPU2RJQ2pkWis1RVEzaHhBRTRPbmR4MnM9Wh8iHftrMTBIeUpuR1RzK0cyMzNrOEs5ZUxBK2c4VnM9ZTRFKqQSqAEIDRKjAQocZFlRSlliRU1lM1RiU1RnU3MxSTNUZlZ5M3o4PRIkZjVlZmQwNGUtZTBiZC00YWY3LTk3NTgtYjc3ZjVkNDRkMmRmGAAgAigCMNvvrJG9MTiehMaPvTFA8+yskb0xShw3U0ppN2pORWE1alM2TGs0cTZvZmdGTUxlNWM9Wh8iHf5tem9acGJDSUpwa3RkVDhqRDArTUozWHpTN3M9Zc5aX5gSpwEIBhKiAQocdzZTRmhldk9wRjlaQmluZVExcGhmMFZCSzJzPRIkN2E3MzU5NTctMjczNi00ZGYyLTg4MzAtZDg1NmEwY2YxOGViGAAgAigCMMnvrJG9MTiehMaPvTFA7eyskb0xShwyMVlQaUhGaVJrTkdrVnNROGVSMS9DdU9uaUk9Wh4iHHRzcGx1WHk3OEhOWFBvdHJ0WVYyYkYzSmczVT1lBvcZAxKoAQgPEqMBChw5aGxZbk9JNkJ1c09iQldpbXdUVWFTczR3WnM9EiQwZmY2YWUzYy0zMDY1LTRkODAtYjliYS1iMjgzYTE2MWVhY2UYACACKAIw4u+skb0xOJ6Exo+9MUDz7KyRvTFKHEg2WCtyRWxTNTcwTElaQ2lUSllDdXFHUmE3Yz1aHyId/05adlo0bk5xUGh0YndXM1B0MWF6am1MbkFiQT1l1Ezo0DABOAA=",
+   "version": 1
+}

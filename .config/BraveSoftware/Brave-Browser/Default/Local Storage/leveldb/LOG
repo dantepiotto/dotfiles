@@ -1,0 +1,6 @@
+2023/11/15-19:53:41.881 4 Reusing MANIFEST /home/dante/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2023/11/15-19:53:41.882 4 Recovering log #48
+2023/11/15-19:53:41.883 4 Reusing old log /home/dante/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000048.log 
+2023/11/15-22:03:07.839 5 Level-0 table #52: started
+2023/11/15-22:03:07.856 5 Level-0 table #52: 417114 bytes OK
+2023/11/15-22:03:07.861 5 Delete type=0 #48

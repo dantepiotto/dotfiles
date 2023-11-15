@@ -1,0 +1,21 @@
+2023/11/15-19:54:53.027 1263 Reusing MANIFEST /home/dante/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/15-19:54:53.027 1263 Recovering log #50
+2023/11/15-19:54:53.052 1263 Reusing old log /home/dante/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000050.log 
+2023/11/15-21:11:46.404 126e Level-0 table #55: started
+2023/11/15-21:11:46.444 126e Level-0 table #55: 1541406 bytes OK
+2023/11/15-21:11:46.448 126e Delete type=0 #50
+2023/11/15-21:11:55.055 1270 Compacting 1@1 + 1@2 files
+2023/11/15-21:11:55.064 1270 Generated table #56@1: 446 keys, 42104 bytes
+2023/11/15-21:11:55.064 1270 Compacted 1@1 + 1@2 files => 42104 bytes
+2023/11/15-21:11:55.068 1270 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/15-21:11:55.068 1270 Delete type=2 #55
+2023/11/15-21:11:55.068 1270 Delete type=2 #52
+2023/11/15-21:52:41.337 1264 Level-0 table #58: started
+2023/11/15-21:52:41.354 1264 Level-0 table #58: 1563156 bytes OK
+2023/11/15-21:52:41.358 1264 Delete type=0 #54
+2023/11/15-21:54:43.759 126e Compacting 1@1 + 1@2 files
+2023/11/15-21:54:43.779 126e Generated table #59@1: 400 keys, 46206 bytes
+2023/11/15-21:54:43.779 126e Compacted 1@1 + 1@2 files => 46206 bytes
+2023/11/15-21:54:43.783 126e compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/11/15-21:54:43.783 126e Delete type=2 #58
+2023/11/15-21:54:43.783 126e Delete type=2 #56

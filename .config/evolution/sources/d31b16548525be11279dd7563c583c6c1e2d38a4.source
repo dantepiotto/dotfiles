@@ -1,0 +1,29 @@
+[Data Source]
+DisplayName=einsteinpiottopiotto@gmail.com
+Enabled=true
+Parent=270944153e21494e0d903dd3770a140ffc06df53
+
+[Mail Submission]
+SentFolder=folder://local/Sent
+TransportUid=63552831be2999c30934e184962b2ad673853b5a
+RepliesToOriginFolder=false
+UseSentFolder=true
+
+[Mail Composition]
+Bcc=
+Cc=
+DraftsFolder=folder://local/Drafts
+ReplyStyle=default
+SignImip=true
+TemplatesFolder=
+StartBottom=inconsistent
+TopSignature=inconsistent
+Language=
+
+[Mail Identity]
+Address=einsteinpiottopiotto@gmail.com
+Aliases=
+Name=
+Organization=
+ReplyTo=
+SignatureUid=none

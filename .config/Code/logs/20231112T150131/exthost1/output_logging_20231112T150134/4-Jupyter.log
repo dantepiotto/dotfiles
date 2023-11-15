@@ -1,0 +1,52 @@
+Visual Studio Code (1.67.2, undefined, desktop)
+Jupyter Extension Version: 2022.4.1021342353.
+Python Extension not installed.
+Workspace folder /home/dante/coding/IPCV/Computer-Vision
+info 15:7:31.917: ZMQ install verified.
+info 15:7:32.499: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:7:32.499: Find preferred kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.11.6"},"orig_nbformat":4} & preferred interpreter 
+info 15:7:32.501: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:7:32.501: Preferred kernel .python3./python./.-m#ipykernel_launcher is exact match
+info 15:7:32.502: PreferredConnection: .python3./python./.-m#ipykernel_launcher found for NotebookDocument: /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb
+info 15:7:32.502: TargetController found ID: .python3./python./.-m#ipykernel_launcher for document /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb
+info 15:7:32.506: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:7:32.506: Find preferred kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.11.6"},"orig_nbformat":4} & preferred interpreter 
+info 15:7:32.506: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:7:32.506: Preferred kernel .python3./python./.-m#ipykernel_launcher is exact match
+info 15:30:20.750: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:30:20.750: Find preferred kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.11.6"},"orig_nbformat":4} & preferred interpreter 
+info 15:30:20.751: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:30:20.751: Preferred kernel .python3./python./.-m#ipykernel_launcher is exact match
+info 15:30:20.753: PreferredConnection: .python3./python./.-m#ipykernel_launcher found for NotebookDocument: /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb
+info 15:30:20.753: TargetController found ID: .python3./python./.-m#ipykernel_launcher for document /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb
+info 15:30:20.757: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:30:20.757: Find preferred kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.11.6"},"orig_nbformat":4} & preferred interpreter 
+info 15:30:20.758: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:30:20.758: Preferred kernel .python3./python./.-m#ipykernel_launcher is exact match
+info 15:30:20.776: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:30:20.776: Find preferred kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.11.6"},"orig_nbformat":4} & preferred interpreter 
+info 15:30:20.776: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:30:20.776: Preferred kernel .python3./python./.-m#ipykernel_launcher is exact match
+info 15:30:20.777: PreferredConnection: .python3./python./.-m#ipykernel_launcher found for NotebookDocument: /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb
+info 15:30:20.777: TargetController found ID: .python3./python./.-m#ipykernel_launcher for document /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb
+info 15:30:20.780: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:30:20.781: Find preferred kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.11.6"},"orig_nbformat":4} & preferred interpreter 
+info 15:30:20.781: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:30:20.781: Preferred kernel .python3./python./.-m#ipykernel_launcher is exact match
+info 15:31:51.961: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:31:51.961: Find preferred kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.11.6"},"orig_nbformat":4} & preferred interpreter 
+info 15:31:51.962: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:31:51.962: Preferred kernel .python3./python./.-m#ipykernel_launcher is exact match
+info 15:31:51.964: PreferredConnection: .python3./python./.-m#ipykernel_launcher found for NotebookDocument: /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb
+info 15:31:51.964: TargetController found ID: .python3./python./.-m#ipykernel_launcher for document /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb
+info 15:31:51.968: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:31:51.968: Find preferred kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb with metadata {"kernelspec":{"display_name":"Python 3","language":"python","name":"python3"},"language_info":{"codemirror_mode":{"name":"ipython","version":3},"file_extension":".py","mimetype":"text/x-python","name":"python","nbconvert_exporter":"python","pygments_lexer":"ipython3","version":"3.11.6"},"orig_nbformat":4} & preferred interpreter 
+info 15:31:51.970: Preferred Remote kernel for /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.ipynb is undefined
+info 15:31:51.970: Preferred kernel .python3./python./.-m#ipykernel_launcher is exact match
+info 15:53:47.154: Shutting down notebooks for dc9eb874-1cb5-4c15-884f-ab23db4f97bd
+info 15:53:47.154: Disposing HostJupyterExecution 22aa6297-c3de-4d40-bd15-e8ebed5a6428
+info 15:53:47.154: Disposing super HostJupyterExecution 22aa6297-c3de-4d40-bd15-e8ebed5a6428
+info 15:53:47.155: Disposing HostJupyterExecution 22aa6297-c3de-4d40-bd15-e8ebed5a6428
+info 15:53:47.155: Finished disposing HostJupyterExecution  22aa6297-c3de-4d40-bd15-e8ebed5a6428
+info 15:53:47.158: Cleaning up server cache 22aa6297-c3de-4d40-bd15-e8ebed5a6428
+info 15:53:47.159: Finished disposing HostJupyterExecution  22aa6297-c3de-4d40-bd15-e8ebed5a6428

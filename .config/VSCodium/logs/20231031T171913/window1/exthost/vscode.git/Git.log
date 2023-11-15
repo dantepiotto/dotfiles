@@ -1,0 +1,29 @@
+2023-10-31 17:19:16.533 [info] Log level: Info
+2023-10-31 17:19:16.534 [info] Validating found git in: "git"
+2023-10-31 17:19:16.534 [info] Using git "2.34.1" from "git"
+2023-10-31 17:19:40.307 [info] Log level: Info
+2023-10-31 17:19:40.308 [info] Validating found git in: "git"
+2023-10-31 17:19:40.321 [info] Using git "2.34.1" from "git"
+2023-10-31 17:19:40.340 [info] > git rev-parse --show-toplevel [3ms]
+2023-10-31 17:19:40.354 [info] > git rev-parse --git-dir --git-common-dir [1ms]
+2023-10-31 17:19:40.365 [info] Open repository: /home/dante/coding/IPCV/Computer-Vision
+2023-10-31 17:19:40.385 [info] > git config --get commit.template [8ms]
+2023-10-31 17:19:40.387 [info] > git rev-parse --show-toplevel [4ms]
+2023-10-31 17:19:40.407 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Antonio refs/remotes/Antonio [10ms]
+2023-10-31 17:19:40.418 [info] > git rev-parse --show-toplevel [12ms]
+2023-10-31 17:19:40.427 [info] > git status -z -uall [11ms]
+2023-10-31 17:19:40.445 [info] > git rev-parse --show-toplevel [19ms]
+2023-10-31 17:19:40.456 [info] > git config --get commit.template [12ms]
+2023-10-31 17:19:40.468 [info] > git rev-parse --show-toplevel [13ms]
+2023-10-31 17:19:40.470 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/Antonio refs/remotes/Antonio [4ms]
+2023-10-31 17:19:40.486 [info] > git status -z -uall [6ms]
+2023-10-31 17:19:40.934 [info] > git check-ignore -v -z --stdin [4ms]
+2023-10-31 17:21:47.856 [info] > git show --textconv :Computer_Vision_Project.py [8ms]
+2023-10-31 17:21:47.858 [info] > git ls-files --stage -- /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.py [2ms]
+2023-10-31 17:21:47.867 [info] > git cat-file -s f0b54dc5dcd7deab981ef020e1d7ff6e5005f38e [2ms]
+2023-10-31 17:21:59.365 [info] > git show --textconv :Computer_Vision_Project.py [12ms]
+2023-10-31 17:21:59.369 [info] > git ls-files --stage -- /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.py [4ms]
+2023-10-31 17:21:59.378 [info] > git cat-file -s f0b54dc5dcd7deab981ef020e1d7ff6e5005f38e [2ms]
+2023-10-31 17:22:30.899 [info] > git show --textconv :Computer_Vision_Project.py [14ms]
+2023-10-31 17:22:30.901 [info] > git ls-files --stage -- /home/dante/coding/IPCV/Computer-Vision/Computer_Vision_Project.py [4ms]
+2023-10-31 17:22:30.917 [info] > git cat-file -s f0b54dc5dcd7deab981ef020e1d7ff6e5005f38e [2ms]

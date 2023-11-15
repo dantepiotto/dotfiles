@@ -1,0 +1,15 @@
+[2023-11-15 14:50:59.665] [sharedprocess] [info] Starting worker process with pid 16047 (type: fileWatcher, window: 1).
+[2023-11-15 14:51:27.669] [sharedprocess] [info] Getting Manifest... ms-python.python
+[2023-11-15 14:51:28.251] [sharedprocess] [info] Installing extension: ms-python.python
+[2023-11-15 14:51:29.081] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2023-11-15 14:51:29.771] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2023-11-15 14:51:34.378] [sharedprocess] [info] Downloaded extension: ms-python.python /home/dante/.config/Code/CachedExtensionVSIXs/ms-python.python-2022.8.1
+[2023-11-15 14:51:36.122] [sharedprocess] [info] Extracted extension to /home/dante/.vscode/extensions/.8945ab98-12a4-493e-a03f-24c269528ad0: ms-python.python
+[2023-11-15 14:51:36.138] [sharedprocess] [info] Renamed to /home/dante/.vscode/extensions/ms-python.python-2022.8.1
+[2023-11-15 14:51:36.141] [sharedprocess] [info] Extracting completed. ms-python.python
+[2023-11-15 14:51:44.505] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/dante/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2023.1.10
+[2023-11-15 14:51:47.783] [sharedprocess] [info] Extracted extension to /home/dante/.vscode/extensions/.d97efd5a-15c3-4fff-b40b-f8615adb928b: ms-python.vscode-pylance
+[2023-11-15 14:51:47.797] [sharedprocess] [info] Renamed to /home/dante/.vscode/extensions/ms-python.vscode-pylance-2023.1.10
+[2023-11-15 14:51:47.799] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2023-11-15 14:51:47.801] [sharedprocess] [info] Extension installed successfully: ms-python.python
+[2023-11-15 14:51:47.802] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

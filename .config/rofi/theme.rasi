@@ -1,0 +1,107 @@
+* {
+	bg0: #282828;
+	bg1: #3c3836;
+	bg2: #504945;
+
+	fg0: #fbf1c7;
+	fg1: #d5c4a1;
+	fg2: #a89984;
+
+	red: #cc241d;
+	green: #98971a;
+	yellow: #d79921;
+	blue: #458588;
+	purple: #b16286;
+	cyan: #689d6a;
+
+	accent: @bg0;
+	urgent: @red;
+
+	background-color: transparent;
+	text-color: @fg0;
+
+	margin: 0;
+	padding: 0;
+	spacing: 0;
+}
+
+element-icon, element-text, scrollbar {
+	cursor: underline;
+}
+
+window {
+	location: center;
+	width: 590px;
+	height: 445px;
+	x-offset: 0px;
+	y-offset: -200px;
+
+	background-color: @bg1;
+	border: 2px;
+	border-color: @bg2;
+	border-radius: 12px;
+}
+
+inputbar {
+	spacing: 8px;
+	padding: 4px 8px;
+	children: [ icon-search, entry ];
+  
+	border-radius: 12px;
+	background-color: @bg0;
+}
+
+icon-search, entry, element-icon, element-text {
+	vertical-align: 0.5;
+}
+
+icon-search {
+	expand: false;
+	filename: "search-symbolic";
+	size: 14px;
+}
+
+textbox {
+	padding: 4px 8px;
+	background-color: @bg2;
+}
+
+listview {
+	padding: 4px 0px;
+	lines: 12;
+	columns: 1;
+	scrollbar: false;
+	fixed-height: false;
+	dynamic: true;
+}
+
+element {
+	padding: 4px 8px;
+	spacing: 8px;
+	radius: 15px;
+}
+
+element normal urgent {
+	text-color: @urgent;
+}
+
+element normal active {
+	text-color: @fg0;
+}
+
+element selected {
+	text-color: @fg0;
+	background-color: @accent;
+}
+
+element selected urgent {
+	background-color: @urgent;
+}
+
+element-icon {
+	size: 0.8em;
+}
+
+element-text {
+	text-color: inherit;
+}

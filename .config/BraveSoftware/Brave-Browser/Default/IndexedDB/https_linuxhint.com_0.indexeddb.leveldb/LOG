@@ -1,0 +1,6 @@
+2023/11/12-18:08:28.923 9062 Creating DB /home/dante/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb since it was missing.
+2023/11/12-18:08:28.940 9062 Reusing MANIFEST /home/dante/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_linuxhint.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/11/12-18:08:32.966 9063 Level-0 table #5: started
+2023/11/12-18:08:32.970 9063 Level-0 table #5: 5387 bytes OK
+2023/11/12-18:08:32.974 9063 Delete type=0 #3
+2023/11/12-18:08:32.974 9063 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

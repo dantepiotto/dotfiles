@@ -1,0 +1,15 @@
+[Info  - 2:51:49 PM] (16164) Pylance language server 2023.1.10 (pyright bbf0ae78) starting
+[Info  - 2:51:49 PM] (16164) Server root directory: /home/dante/.vscode/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 2:51:49 PM] (16164) Starting service instance "Computer-Vision"
+[Info  - 2:51:49 PM] (16164) Notebook support: Legacy
+[Info  - 2:51:49 PM] (16164) Interactive window support: Legacy
+[Info  - 2:51:49 PM] (16164) No configuration file found.
+[Info  - 2:51:49 PM] (16164) No pyproject.toml file found.
+[Info  - 2:51:49 PM] (16164) Setting pythonPath for service "Computer-Vision": "/bin/python3"
+[Warn  - 2:51:49 PM] (16164) stubPath /home/dante/coding/IPCV/Computer-Vision/typings is not a valid directory.
+[Info  - 2:51:49 PM] (16164) Assuming Python version 3.10
+[Info  - 2:51:49 PM] (16164) Assuming Python platform Linux
+[Info  - 2:51:49 PM] (16164) Searching for source files
+[Info  - 2:51:49 PM] (16164) Found 1 source file
+[Info  - 2:51:49 PM] (16164) Background analysis(1) root directory: /home/dante/.vscode/extensions/ms-python.vscode-pylance-2023.1.10/dist
+[Info  - 2:51:49 PM] (16164) Background analysis(1) started
